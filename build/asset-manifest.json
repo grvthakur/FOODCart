@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FOODCart/static/css/main.0c20c5aa.chunk.css",
+    "main.js": "/FOODCart/static/js/main.eda5bd85.chunk.js",
+    "main.js.map": "/FOODCart/static/js/main.eda5bd85.chunk.js.map",
+    "runtime-main.js": "/FOODCart/static/js/runtime-main.6dee75f7.js",
+    "runtime-main.js.map": "/FOODCart/static/js/runtime-main.6dee75f7.js.map",
+    "static/js/2.4ddb42bf.chunk.js": "/FOODCart/static/js/2.4ddb42bf.chunk.js",
+    "static/js/2.4ddb42bf.chunk.js.map": "/FOODCart/static/js/2.4ddb42bf.chunk.js.map",
+    "index.html": "/FOODCart/index.html",
+    "static/css/main.0c20c5aa.chunk.css.map": "/FOODCart/static/css/main.0c20c5aa.chunk.css.map",
+    "static/js/2.4ddb42bf.chunk.js.LICENSE.txt": "/FOODCart/static/js/2.4ddb42bf.chunk.js.LICENSE.txt",
+    "static/media/meals2.dcb2433e.jpg": "/FOODCart/static/media/meals2.dcb2433e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dee75f7.js",
+    "static/js/2.4ddb42bf.chunk.js",
+    "static/css/main.0c20c5aa.chunk.css",
+    "static/js/main.eda5bd85.chunk.js"
+  ]
+}
